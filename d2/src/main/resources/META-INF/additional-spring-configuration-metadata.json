@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "greeting.messasge",
+    "type": "java.lang.String",
+    "description": "A description for 'greeting.messasge'"
+  },
+  {
+    "name": "greeting.messasge",
+    "type": "java.lang.String",
+    "description": "A description for 'greeting.messasge'"
+  },
+  {
+    "name": "greeting.message",
+    "type": "java.lang.String",
+    "description": "A description for 'greeting.message'"
+  },
+  {
+    "name": "greeting.message",
+    "type": "java.lang.String",
+    "description": "A description for 'greeting.message'"
+  }
+]}
